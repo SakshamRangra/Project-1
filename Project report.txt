@@ -1,0 +1,19 @@
+                  STUDENT RECORD MANAGER
+ what is this tool and , How can it benefit to us ?
+ it is a tool which is specially designed for the teacher or any other user who wants a record to be saved this can also be modified to the use of the banking sectors which can enhance it a lot and also it ensures a safe score and the safe database so that it can be used in future 
+ 
+do we need any thing prerecorded 
+# No external libraries needed!
+# This project runs entirely on Python's standard library (Python 3.x).
+
+
+How to Run
+Make sure you have Python installed on your PC.
+Open your terminal or command prompt in this project folder.
+Run the script using:
+
+python student_project.py
+Choose an option from 1 to 5 in the menu to operate the program.
+Notes & Future Updates
+Currently saving data using a basic CSV-like format in a .txt file.
+Might add an option to delete records or edit student marks later if time permits.
